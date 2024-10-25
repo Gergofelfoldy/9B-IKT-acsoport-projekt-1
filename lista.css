@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(0, 217, 255);
+}
+.maincontant{
+    border: 2px dotted green;
+    border-radius:25px;
+    padding: 30px;
+    margin: 50px auto;
+    width: 75%;
+}
+ul{
+    list-style-image: url(file:///Z:/2024-25/www/oktober/jel.png) 
+}
+.cikk{
+    width: 45%;
+    border: 1px solid black;
+    padding: 10px;
+    float: left;
+}
+.lezaro{
+    clear: both;
+}
+.eltart{
+    margin-right: 10px;
+}
+.cikk img{
+    width: 100%;
+    border-radius: 100%;
+}
+.cikk p{
+    text-align: justify;
+}
